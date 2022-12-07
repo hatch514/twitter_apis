@@ -13,7 +13,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "jimp": "^0.10.2",
     "nuxt": "^2.12.2"
   },
